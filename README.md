@@ -8,6 +8,6 @@ and run `mix deps.get`
 
 3. Now run `iex -S mix` which will open the shell for elixir.
 
-4. Run `Identicon.main("<username>")
+4. Run `Identicon.main("username")
 
 5. A png file will be created with the name username.png which will be your identicon.
